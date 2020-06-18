@@ -7,5 +7,5 @@ We have adapted this code so that it can work with a 50MHz clock (corresponding 
 Unfortunately, as we no longer had access to the university's premises following the Covid-19 epidemic, we were unable to implement our code on the DE1 Altera board. 
 
 
-In this repository, you will find the VHDL codes of the project (including the test bench), a Tutorial technical document which describes and explains the whole project (written in French) and a ZIP document of our project on Altera.
+In this repository, you will find the VHDL codes of the project (including the test bench), a Tutorial technical document which describes and explains the whole project and a ZIP document of our project on Altera.
 
